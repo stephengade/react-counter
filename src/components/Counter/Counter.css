@@ -1,0 +1,14 @@
+h4 {
+    color: #000;
+}
+
+
+.counter-list li {
+  font-size: 20px;
+  list-style: none;
+  margin-right: 10px;
+}
+
+.counter-list li:before {
+    content: "#";
+}
